@@ -1,0 +1,6 @@
+[package]
+name = "g_3_referring-to-an-item-in-module-tree"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

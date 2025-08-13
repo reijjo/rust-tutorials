@@ -1,0 +1,6 @@
+[package]
+name = "k_3_validating-references-with-lifetimes"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

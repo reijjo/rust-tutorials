@@ -1,0 +1,1 @@
+/Users/reijjo/workspace/tutorials/rust/theBook/d/d_2_references-and-borrowing/target/debug/d_2_references-and-borrowing: /Users/reijjo/workspace/tutorials/rust/theBook/d/d_2_references-and-borrowing/src/main.rs
