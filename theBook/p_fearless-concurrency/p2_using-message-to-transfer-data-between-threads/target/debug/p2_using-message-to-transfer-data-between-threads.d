@@ -1,0 +1,1 @@
+/Users/reijjo/workspace/tutorials/rust/theBook/p_fearless-concurrency/p2_using-message-to-transfer-data-between-threads/target/debug/p2_using-message-to-transfer-data-between-threads: /Users/reijjo/workspace/tutorials/rust/theBook/p_fearless-concurrency/p2_using-message-to-transfer-data-between-threads/src/main.rs
