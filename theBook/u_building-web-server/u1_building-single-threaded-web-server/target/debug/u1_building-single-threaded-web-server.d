@@ -1,0 +1,1 @@
+/Users/reijjo/workspace/tutorials/rust/theBook/u_building-web-server/u1_building-single-threaded-web-server/target/debug/u1_building-single-threaded-web-server: /Users/reijjo/workspace/tutorials/rust/theBook/u_building-web-server/u1_building-single-threaded-web-server/src/main.rs
